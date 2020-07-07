@@ -1,0 +1,19 @@
+{
+  "name": "m-e-r-n",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SashaJson/MERNStack.git"
+  },
+  "author": "Sasha Json (Shulga)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SashaJson/MERNStack/issues"
+  },
+  "homepage": "https://github.com/SashaJson/MERNStack#readme"
+}
