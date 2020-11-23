@@ -1,7 +1,7 @@
 {
   "name": "m-e-r-n",
   "version": "1.0.0",
-  "description": "",
+  "description": "e2e-integration-testing-mern-app",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
